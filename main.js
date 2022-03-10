@@ -1,1 +1,1 @@
-var window = $(“#someId”).playground({refreshRate: 50});
+var windowl = $(“#someId”).playground({refreshRate: 50});
